@@ -17,4 +17,4 @@ class Solution(object):
         
         for i in range(len(s)):
             if i<len(s)-1 and m[s[i]]<m[s[i+1]]:
-                ans-=m
+                ans-=m[s[i]]
