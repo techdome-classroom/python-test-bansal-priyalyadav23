@@ -6,7 +6,7 @@ class Solution(object):
             'V':1,
             'X':1,
             'L':1,
-            'I':1,
+            'C':1,
             'I':1,
 
 
