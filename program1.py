@@ -3,6 +3,7 @@ class Solution(object):
 
     
     if len(s)%2!=0:
+        return false
         
     
 
