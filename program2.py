@@ -20,3 +20,4 @@ class Solution(object):
                 ans-=m[s[i]]
                 else:
                     ans +=m[s[i]]
+                    return ans
