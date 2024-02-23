@@ -16,3 +16,4 @@ class Solution(object):
 
         
         for i in range(len(s)):
+            i
