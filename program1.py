@@ -6,7 +6,7 @@ class Solution(object):
         return false
         dict={'(':')','[':']','{':'}'}
         stach=[]
-        for 
+        for i ans
     
 
 
