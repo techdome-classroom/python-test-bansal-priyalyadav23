@@ -4,6 +4,10 @@ class Solution(object):
         m={
             'I':1,
             'I':1,
+            'I':1,
+            'I':1,
+            'I':1,
+            'I':1,
             
 
         }
