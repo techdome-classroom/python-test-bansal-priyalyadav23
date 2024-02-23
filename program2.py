@@ -15,4 +15,4 @@ class Solution(object):
         ans=0
 
         
-        for i in range(len(s))
+        for i in range(len(s)):
