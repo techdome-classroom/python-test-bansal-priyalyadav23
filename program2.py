@@ -7,7 +7,7 @@ class Solution(object):
             'X':10,
             'L':50,
             'C':100,
-            'D':1,
+            'D':500,
             'M':1,
 
 
