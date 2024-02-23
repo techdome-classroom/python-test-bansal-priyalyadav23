@@ -5,7 +5,7 @@ class Solution(object):
     if len(s)%2!=0:
         return false
         dict={'(':')','[':']','{':'}'}
-        stach=[]
+        stack=[]
         for i in ans
     
 
