@@ -16,4 +16,4 @@ class Solution(object):
 
         
         for i in range(len(s)):
-            if i<len(s)-1 and m
+            if i<len(s)-1 and m[s]
