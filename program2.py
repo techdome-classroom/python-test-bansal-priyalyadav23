@@ -2,7 +2,7 @@ class Solution(object):
     def romanToInt(self, s:str)->int:
         
         m={
-            'I':
+            'I':1,
         }
         
         pass
